@@ -106,6 +106,7 @@ Alat tempur yang lain
 ======================
 
 
+---------------------------------------------------------------------------------------
 BACAAN/BLOG UNTUK WEB DEVELOPER 
 ---------------------------------------------------------------------------------------- 
 - Smashing Magazine https://www.smashingmagazine.com/ 
@@ -121,8 +122,11 @@ BAHASA INDONESIA
 
 
 
+
+---------------------------------------------------------------------------------------
 KOMUNITAS UNTUK PARA WEB DEVELOPER 
----------------------------------------------------------------------------------------- 
+----------------------------------------------------------------------------------------
+ 
 - Stack Overflow : lebih dari 4 jt programmer diseluruh dunia siap 
 membantu agan2 yang kesusahan / stuck pas ngoding. http://stackoverflow.com/ *keren 
 
@@ -179,7 +183,8 @@ dll. https://asana.com/ *keren
 
 
 ----------------------------------------------------------------------------------------
-TEMPAT SHARING CODING / MELAKUKAN EXPERIMENT ---------------------------------------------------------------------------------------- 
+TEMPAT SHARING CODING / MELAKUKAN EXPERIMENT 
+---------------------------------------------------------------------------------------- 
 - JS Bin : Teman2 bisa melakukan experiment programming ataupun sharing coding. 
 Disini ada HTML, CSS, JavaScript, Markdown, Jade dll. http://jsbin.com/ 
 
@@ -203,7 +208,8 @@ StackOverflow dll :D. Informasi lebih lengkapnya bisa dilihat disini -> http://d
 
 
 ---------------------------------------------------------------------------------------
-WEB YANG MENGAJARKAN KITA CARA KODING YANG BENAR & SESUAI STANDAR ---------------------------------------------------------------------------------------- 
+WEB YANG MENGAJARKAN KITA CARA KODING YANG BENAR & SESUAI STANDAR 
+---------------------------------------------------------------------------------------- 
 - PHP : The Right Way http://www.phptherightway.com/ *ada banyak bahasa termasuk indonesia 
 - JS : The Right Way http://jstherightway.org/ 
 - HTML&CSS : The Right Way http://htmlcsstherightway.org/ 
@@ -243,7 +249,8 @@ TEXT EDITOR : Alat untuk ngoding
 
 
 --------------------------------------------------------------------------------------- 
-WEB SERVER LOCAL : Server untuk jalanin website di komputer secara offline ---------------------------------------------------------------------------------------- 
+WEB SERVER LOCAL : Server untuk jalanin website di komputer secara offline 
+---------------------------------------------------------------------------------------- 
 - XAMPP https://www.apachefriends.org/index.html *populer 
 - MAMP https://www.mamp.info/en/ 
 - Wamp http://www.wampserver.com/en/ 
@@ -288,7 +295,8 @@ link : https://chrome.google.com/webstore/detail/nimbus-screenshot-and-scr/bpcon
 
 
 ---------------------------------------------------------------------------------------- 
-INSPIRASI DESAIN WEB : inspirasi desain kalo buat web, kalo misalkan bingung desain tampilan login, layout dll. ---------------------------------------------------------------------------------------- 
+INSPIRASI DESAIN WEB : inspirasi desain kalo buat web, kalo misalkan bingung desain tampilan login, layout dll. 
+---------------------------------------------------------------------------------------- 
 - Webdesign Inspiration www.webdesign-inspiration.com 
 - Codepen https://codepen.io/ * mantep & keren 
 - Dribbble https://dribbble.com/ 
