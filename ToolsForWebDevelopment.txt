@@ -1,0 +1,300 @@
+
+
+
+=================== FRONTEND DEVELOPER =================== 
+------------------------------ 
+1. DASAR - DASAR FRONT END 
+------------------------------ 
+
+- HTML 
+- CSS 
+- JAVASCRIPT 
+- JQUERY 
+
+
+------------------------------
+ 2. CSS TOOLS 
+------------------------------ 
+ - CSS PREPROCESSORS : sering digunain oleh front-end developer, Dimana fungsinya agar kode 
+ CSS mudah dikembangkan atau dimodifikasi. Fungsi lainnya agar seorang pengembang gak perlu 
+ mengulang2 kode yg sama atau istilahnya DRY (Don’t Repeat Your Self). 
+
+ --- Sass http://sass-lang.com/ 
+ --- Less http://lesscss.org/ 
+ --- Stylus http://stylus-lang.com/
+
+ - FRAMEWORK CSS : Library untuk ngubah tampilan website jadi responsive, sesuai dibanyak device misalnya hp, tablet 
+
+ --- Bootstrap http://www.bootstrap.com/ *populer 
+ --- Foundation http://foundation.zurb.com/ 
+ --- Skeleton http://getskeleton.com/ 
+ --- Semantic Ui http://semantic-ui.com/ 
+ --- PureCSS http://purecss.io/ 
+ --- Gumby http://www.gumbyframework.com/ 
+
+ ------------------------------ 
+ 3. TASK RUNNERS : Fungsi utamanya untuk menjalankan beberapa tugas misalnya mengecilkan ukuran gambar, compile CSS dll sekaligus dengan sekali perintah. 
+ ------------------------------ 
+ - Grunt http://gruntjs.com/ 
+ - Gulp http://gulpjs.com/ 
+ 
+ ------------------------------------------------ 
+ 4. MVC JAVASCRIPT FRAMEWORKS 
+ ------------------------------------------------ 
+
+ - Angular.js https://angularjs.org/ *populer 
+ - Backbone.js http://backbonejs.org/ 
+ - React.js https://facebook.github.io/react/ 
+ - Ember.js http://emberjs.com/ 
+ - Vue.js http://vuejs.org/ 
+
+ ------------------------------------------------ 
+ UNIT TESTINGNYA 
+ - Mocha 
+ - Jasmine 
+
+ --------------------------------- 
+ 5. LIBRARY JAVASCRIPT 
+ --------------------------------- 
+ - Drop.js : efek dropdown keren link : http://github.hubspot.com/drop/docs/welcome/ 
+ - Dynamics.js : tambahin efek animasi ke web agan dengan library ini !! link : http://dynamicsjs.com/ 
+ - Sticker.js : buat sticker keren link : http://stickerjs.cmiscm.com/ 
+ - Bespoke.js : efek presentasi (kayak ms power point) cocok buat porfolio kayaknya :D 
+ link : http://markdalgleish.com/projects/bespoke.js/ 
+ - skrollr : pingin buat web dengan efek parallax ? pake library ini cocok banget... 
+ link : http://prinzhorn.github.io/skrollr/
+
+
+
+
+
+=================== 
+BACKEND 
+=================== 
+
+-------------------------------------------- 
+1. PEMROGRAMAN WEB : Ada banyak dan ada macam2 dan biasanya banyak yang pake PHP. 
+*untuk yang tanda kurung adalah framework yg dipakenya 
+-------------------------------------------- 
+
+- C# (.net) - Phython (Django) 
+- Java (Spring, Play) - PHP (Laravel, CodeIgniter, YiiFramework...) 
+- Node.js (Express.js, Sails.js) 
+- Ruby (Ruby On Rails, Sinatra) 
+
+----------------------------- 
+2. DATABASE : Untuk nyimpen data 
+----------------------------- 
+
+- MySQL https://www.mysql.com/ 
+- MariaDB (cloningan mysql) https://mariadb.org/ 
+- MongoDB https://www.mongodb.org/ 
+- PostgreSQL http://www.postgresql.org/ 
+- Redis http://redis.io/ 
+- SQLite https://sqlite.org/ 
+
+----------------------- 
+3. CHACHING 
+----------------------- 
+- Nginx https://nginx.org/ 
+- Apache http://www.apache.org/
+
+
+
+======================
+Alat tempur yang lain
+======================
+
+
+BACAAN/BLOG UNTUK WEB DEVELOPER 
+---------------------------------------------------------------------------------------- 
+- Smashing Magazine https://www.smashingmagazine.com/ 
+- Six Revisions http://sixrevisions.com/ 
+- Coding Horror https://blog.codinghorror.com/ 
+- Scoth.io https://scotch.io/ 
+
+-------------------------- 
+BAHASA INDONESIA 
+-------------------------- 
+
+- CodePolitan https://www.codepolitan.com/ *keren
+
+
+
+KOMUNITAS UNTUK PARA WEB DEVELOPER 
+---------------------------------------------------------------------------------------- 
+- Stack Overflow : lebih dari 4 jt programmer diseluruh dunia siap 
+membantu agan2 yang kesusahan / stuck pas ngoding. http://stackoverflow.com/ *keren 
+
+- Front-end Front : Komunitas yang khusus untuk front end developer, 
+disini agan bisa share link2 penting masalah front end. https://frontendfront.com/ 
+
+- Refind : Sama seperti front-end front. Cuma yang bedanya disini ada kategorinya, 
+misalnya design, ux, programming dll. https://refind.com/ 
+
+- Web Developer Forum : Disini agan bisa belajar gimana cara buat website dari html, 
+css, js dan bisa saling bertanya antar member http://www.webdeveloper.com/forum/ 
+
+- Sekolah Koding : Forum programming dari indonesia yang isinya tutorial pemrograman web. 
+Fitur2 unik yang disediain diantaranya track/perjalanan, perpustakaan, mading, upacara, 
+podcast, forum dll. https://sekolahkoding.com *rekomendasi, keren, mantep 
+
+
+
+---------------------------------------------------------------------------------------- 
+TOOL UNTUK TEST KECEPATAN WEBSITE : kecepatan website merupakan salah satu faktor penting 
+untuk menjadikan website agan lebih baik dan lebih user friendly 
+---------------------------------------------------------------------------------------- 
+
+- Google Page Speed : Website ini akan menganalisa website dan memberikan tips 
+
+- tips penting dan apa yang harus diperbaiki. https://developers.google.com/speed/pagespeed/insights/ *keren 
+
+- Pingdom : Salah tool terbaik untuk ngetest kecepatan / waktu loading pada sebuah website. 
+https://tools.pingdom.com/ *keren 
+
+- Web Page Test : Tool ini, akan membantu untuk ngetest performa website dengan berbagai macam pilihan lokasi. 
+https://www.webpagetest.org/ 
+
+- GTmetrix : sama seperti Google PageSpeed. Setelah di analisa websitenya, agan akan dikasih tau 
+tips2 apa yang kurang dan yang harus dibenerin pada websitenya. https://gtmetrix.com/
+
+
+----------------------------------------------------------------------------------------
+TOOL KOLABORASI ANTAR TEAM / DEVELOPER 
+---------------------------------------------------------------------------------------- 
+- Slack : Aplikasi chatting untuk developer. https://slack.com 
+
+- trello : layanan untuk manajemen perencanaan / istilahnya To Do list. Tapi, 
+kalo trello ini lebih keren lagi soalnya banyak fitur yg sangat memudahkan. https://trello.com/ *keren, mantep 
+
+- glip : glip nyediain fitur chatting secara realtime dan terintegrasi. Fasilitas lainnya, 
+video, sharing kalender dan masih banyak lagi.. https://glip.com/ 
+
+- jira : dengan software ini, teman2 bisa merencanakan kerjaanya, 
+melihat hasilnya dan kemudian melaunching / merilis hasilnya. https://www.atlassian.com/software/jira 
+
+- asana : sebuah tim bisa ngawasin project2nya, liat projectnya, bisa buat task2nya.. 
+dll. https://asana.com/ *keren
+
+
+----------------------------------------------------------------------------------------
+TEMPAT SHARING CODING / MELAKUKAN EXPERIMENT ---------------------------------------------------------------------------------------- 
+- JS Bin : Teman2 bisa melakukan experiment programming ataupun sharing coding. 
+Disini ada HTML, CSS, JavaScript, Markdown, Jade dll. http://jsbin.com/ 
+
+- JSfiddle : Tempat ngetest kode HTML, CSS ataupun Javascript dibrowser secara realtime https://jsfiddle.net/ 
+
+- Codeshare : sharing koding agan dengan devoper lain secara realtime. https://codeshare.io/ 
+
+- Codepen : tempat sharing koding ataupun cari inspirasi web. https://codepen.io/ *keren, mantep 
+
+- Dabblet : Testing HTML ataupun CSS secara interaktif. http://dabblet.com/
+
+
+---------------------------------------------------------------------------------------- 
+MARKDOWN EDITOR : sebuah tool untuk konversi dari TEXT ke HTML. Contoh2 website yang pake markdown diantaranya ada GitHub, 
+StackOverflow dll :D. Informasi lebih lengkapnya bisa dilihat disini -> http://daringfireball.net/projects/markdown/.
+---------------------------------------------------------------------------------------- 
+- StackEdit : Editor online gratis untuk buat markdown. https://stackedit.io/ 
+- Texts : text editor sederhana untuk markdown yang hanya tersedia pada Windows & Mac 
+- Sublime Text : text editor populer ini ternyata punya fitur markdown. https://www.sublimetext.com/ 
+- MarkdownPad : markdown untuk windows http://markdownpad.com/
+
+
+---------------------------------------------------------------------------------------
+WEB YANG MENGAJARKAN KITA CARA KODING YANG BENAR & SESUAI STANDAR ---------------------------------------------------------------------------------------- 
+- PHP : The Right Way http://www.phptherightway.com/ *ada banyak bahasa termasuk indonesia 
+- JS : The Right Way http://jstherightway.org/ 
+- HTML&CSS : The Right Way http://htmlcsstherightway.org/ 
+
+
+
+---------------------------------------------------------------------------------------- 
+PACKAGE MANAGER : tools yang digunakan untuk menginstall package2 mau html, css, js ataupun php. 
+Kegunaanya ? kalo misalkan teman2 ingin mendownload framework CSS sebut saja Bootstrap.. 
+otomatis harus mengunjungi websitenya lalu download. Dengan package manager semuanya jadi dipermudah, 
+misalkan untuk Frontend pakenya Bower.. tinggal ketik bower install bootstrap di command line dst... 
+---------------------------------------------------------------------------------------- 
+- Bower : package manager untuk HTML, CSS dan Javascript https://bower.io/ 
+- Npm : package manager untuk Javascript https://www.npmjs.com/ 
+- Composer : package manager untuk PHP https://getcomposer.org/ 
+
+
+
+---------------------------------------------------------------------------------------- 
+GIT : Untuk mengatur source code aplikasi. Salah satu contohnya, kalo source code teman2 error, 
+dengan git teman2 bisa mengembalikan source code ke versi tertentu, ke tanggal tertentu dll. 
+Untuk lebih detailnya, kesini aja -> https://sekolahkoding.com/kelas/apa-itu-git 
+---------------------------------------------------------------------------------------- 
+- Github github.com 
+- Bitbucket https://bitbucket.org *ane pake ini 
+- GitLab https://about.gitlab.com/
+
+
+---------------------------------------------------------------------------------------- 
+TEXT EDITOR : Alat untuk ngoding 
+---------------------------------------------------------------------------------------- 
+- Atom https://atom.io/ *keren 
+- Brackets http://brackets.io/ 
+- Notepad ++ https://notepad-plus-plus.org/ 
+- Sublime Text https://www.sublimetext.com/ *keren 
+- Vim http://www.vim.org/
+
+
+--------------------------------------------------------------------------------------- 
+WEB SERVER LOCAL : Server untuk jalanin website di komputer secara offline ---------------------------------------------------------------------------------------- 
+- XAMPP https://www.apachefriends.org/index.html *populer 
+- MAMP https://www.mamp.info/en/ 
+- Wamp http://www.wampserver.com/en/ 
+- Vagrant https://www.vagrantup.com/ 
+- Laragon https://laragon.org/ 
+- AMPPS http://www.ampps.com/
+
+
+---------------------------------------------------------------------------------------- 
+ICON : Tempat nyari2 icon buat website 
+---------------------------------------------------------------------------------------- 
+- Font Awesome http://fontawesome.io/ 
+- Icon Finder https://www.iconfinder.com/ 
+- Icons8 https://icons8.com/ 
+- Flaticon http://www.flaticon.com/ 
+- iconmonstr http://iconmonstr.com/
+
+
+
+---------------------------------------------------------------------------------------- 
+CHROME EXTENSION 
+---------------------------------------------------------------------------------------- 
+- Piktab deskripsi : extension yang menurut ane keren... saat nginstall extension ini, 
+default Home Page agan bakal berubah menjadi Home Page yang banyak resource untuk desain web. 
+Selain itu, bakalan muncul juga menu untuk cari icon, vector, sketch dengan mudah link : 
+https://chrome.google.com/webstore/detail/piktab/nkhjnpgcnmdpeikbeegmibjcfjpamjnp?hl=en 
+
+- Page Ruler deskripsi : suka ane pake buat ngukur lebar layout website, satuan yang dipakenya PX.
+ link : https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn?hl=en 
+
+- Web Developer deskripsi : toolbar yang isinya tool web developer (berguna banget). 
+Ada banyak pilihan, contohnya untuk disable javascript, disable css, Jadi, agan bisa ngedebug dengan cepat. 
+link : https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm 
+
+- Window Resizer deskripsi : extensions untuk ngetest website di macam2 device dengan cepat. 
+link : https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en 
+
+- Nimbus Screenshoot deskripsi : untuk ngambil gambar / screenshoot halaman web. 
+Sebenernya ada banyak extensions buat screenshooot. Tapi kalo ane suka yang ini ! 
+link : https://chrome.google.com/webstore/detail/nimbus-screenshot-and-scr/bpconcjcammlapcogcnnelfmaeghhagj?hl=en
+
+
+
+---------------------------------------------------------------------------------------- 
+INSPIRASI DESAIN WEB : inspirasi desain kalo buat web, kalo misalkan bingung desain tampilan login, layout dll. ---------------------------------------------------------------------------------------- 
+- Webdesign Inspiration www.webdesign-inspiration.com 
+- Codepen https://codepen.io/ * mantep & keren 
+- Dribbble https://dribbble.com/ 
+- Template Monster http://www.templatemonster.com/ 
+- Awwwards http://www.awwwards.com/ 
+
+
+
+
